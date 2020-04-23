@@ -1,0 +1,13 @@
+{
+    "name": "humans/laravel-setup-traits",
+    "description": "Autorun traits on PHPUnit setup.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jaggy Gauran",
+            "email": "jaggy@humans.ph"
+        }
+    ],
+    "require": {}
+}

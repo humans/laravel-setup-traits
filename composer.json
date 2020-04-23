@@ -11,6 +11,8 @@
     ],
     "require": {},
     "autoload": {
-        "Humans\\SetupTraits\\": "src/"
+        "psr-4": {
+            "Humans\\SetupTraits\\": "src/"
+        }
     }
 }

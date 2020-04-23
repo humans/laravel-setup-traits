@@ -9,5 +9,8 @@
             "email": "jaggy@humans.ph"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "Humans\\SetupTraits\\": "src/"
+    }
 }

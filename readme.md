@@ -1,5 +1,11 @@
 # Laravel Setup Traits
 
+---
+
+**Laravel now has this built-in!**
+
+---
+
 This package allows traits to be ran automatically on the setup of your tests.
 
 Here's an example.
